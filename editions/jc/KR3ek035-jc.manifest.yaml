@@ -1,0 +1,740 @@
+canonical_identifier: bkk:krp/KR3ek035/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ek035/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 解圍元藪
+  identifiers:
+    krp: KR3ek035
+  tags:
+    kr-categories: KR3ek
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek035.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ek035_001-jc.yaml, hash: 'sha256:39b6362006ab1d9d83ed1b4a026f59adf6bd2a99ef3d64cc5b3b3792f09d6360'}
+  - {seq: 2, filename: KR3ek035_002-jc.yaml, hash: 'sha256:45c41750faf15fa84e1e70b0d6bc4d0553d8f6a983680a4b395af21ce3af6869'}
+  - {seq: 3, filename: KR3ek035_003-jc.yaml, hash: 'sha256:d5321a20c39cbd918f47a6494c6f5e4330a6d636e85500ed7886f36a132112e7'}
+  - {seq: 4, filename: KR3ek035_004-jc.yaml, hash: 'sha256:8d91e7fa177a4c3abd3f4b579c4cbea761677b5549b1fa2fcb215b4f36bc38cb'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ek035_001-jc.markers.yaml, hash: 'sha256:fb5ee33640e47ff33331d5300e9bc1760f6044c65a2decb30840b076281cfb64'}
+  - {seq: 2, role: markers, filename: assets/KR3ek035_002-jc.markers.yaml, hash: 'sha256:5e24a7fcc01bc47ccf3a5f5d3bfa99945131e19d181916039996c8db953a5bdd'}
+  - {seq: 3, role: markers, filename: assets/KR3ek035_003-jc.markers.yaml, hash: 'sha256:0482618887f6b722dea753f70cbb6a9f368dfc81681b84732daae5c70df44c12'}
+  - {seq: 4, role: markers, filename: assets/KR3ek035_004-jc.markers.yaml, hash: 'sha256:07ea1ea35927fbf25eb10f299873d76cbfee1ced3da0160be08bd3655790b8e6'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 13940
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 6623
+  label: 風癩論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d2d28
+    span:
+    - body
+    - 4154
+    - 6623
+  label: 受病所在經絡
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2d3
+    span:
+    - body
+    - 6623
+    - 13940
+  label: 三十六瘋六經分屬
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d4
+    span:
+    - body
+    - 6648
+    - 6843
+  label: 大麻風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d5
+    span:
+    - body
+    - 6843
+    - 6969
+  label: 蛇皮風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d6
+    span:
+    - body
+    - 6969
+    - 7119
+  label: 脫跟風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d7
+    span:
+    - body
+    - 7119
+    - 7270
+  label: 魚鱗風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d8
+    span:
+    - body
+    - 7270
+    - 7414
+  label: 邪魅風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d9
+    span:
+    - body
+    - 7414
+    - 7636
+  label: 血風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d10
+    span:
+    - body
+    - 7636
+    - 7908
+  label: 鵝掌風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d11
+    span:
+    - body
+    - 7908
+    - 8103
+  label: 鼓槌風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d12
+    span:
+    - body
+    - 8103
+    - 8246
+  label: 血痹風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d13
+    span:
+    - body
+    - 8246
+    - 8384
+  label: 糍糕風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d14
+    span:
+    - body
+    - 8384
+    - 8615
+  label: 痛風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d15
+    span:
+    - body
+    - 8615
+    - 8818
+  label: 癲風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d16
+    span:
+    - body
+    - 8818
+    - 8963
+  label: 半肢風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d17
+    span:
+    - body
+    - 8963
+    - 9093
+  label: 軟癱風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d18
+    span:
+    - body
+    - 9093
+    - 9308
+  label: 紫雲風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d19
+    span:
+    - body
+    - 9308
+    - 9493
+  label: 干風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d20
+    span:
+    - body
+    - 9493
+    - 9639
+  label: 刺風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d21
+    span:
+    - body
+    - 9639
+    - 9897
+  label: 癢風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d22
+    span:
+    - body
+    - 9897
+    - 10106
+  label: 白癜風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d23
+    span:
+    - body
+    - 10106
+    - 10272
+  label: 蛓蠔風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d24
+    span:
+    - body
+    - 10272
+    - 10429
+  label: 歷節風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d25
+    span:
+    - body
+    - 10429
+    - 10558
+  label: 壁泥風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d26
+    span:
+    - body
+    - 10558
+    - 10888
+  label: 疹風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d27
+    span:
+    - body
+    - 10888
+    - 11054
+  label: 啞風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d28
+    span:
+    - body
+    - 11054
+    - 11196
+  label: 冷麻風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d29
+    span:
+    - body
+    - 11196
+    - 11358
+  label: 漏蹄風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d30
+    span:
+    - body
+    - 11358
+    - 11552
+  label: 蛤蟆風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d31
+    span:
+    - body
+    - 11552
+    - 11822
+  label: 核桃風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d32
+    span:
+    - body
+    - 11822
+    - 12008
+  label: 水風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d33
+    span:
+    - body
+    - 12008
+    - 12172
+  label: 熱風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d34
+    span:
+    - body
+    - 12172
+    - 12466
+  label: 雁來風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d35
+    span:
+    - body
+    - 12466
+    - 12721
+  label: 疙瘙風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d36
+    span:
+    - body
+    - 12721
+    - 12820
+  label: 雞爪風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d37
+    span:
+    - body
+    - 12820
+    - 13030
+  label: 螻蟈風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d38
+    span:
+    - body
+    - 13030
+    - 13210
+  label: 嚲泄風
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ek035_jc_001-d2.d3d39
+    span:
+    - body
+    - 13210
+    - 13940
+  label: 蠱風
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 8125
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 2233
+  label: 六經三十六瘋總論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d2d2
+    span:
+    - body
+    - 10
+    - 87
+  label: 若夫嵐瘴蒸襲日月霾光
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d2d3
+    span:
+    - body
+    - 87
+    - 180
+  label: 龍虎驕騰波瀾泛湧
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d2d4
+    span:
+    - body
+    - 180
+    - 252
+  label: 火炎昆崗兮英華凋落
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d2d5
+    span:
+    - body
+    - 252
+    - 392
+  label: 神離元牝兮空谷傳聲
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d2d6
+    span:
+    - body
+    - 392
+    - 504
+  label: 蜂蠹花心而不實
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d2d7
+    span:
+    - body
+    - 504
+    - 634
+  label: 鷹餒臡胾而爛腸
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d2d8
+    span:
+    - body
+    - 634
+    - 691
+  label: 色如隨錦流霞邪充五內
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d2d9
+    span:
+    - body
+    - 691
+    - 2233
+  label: 形似熏煤磊石血溢六經
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3d3
+    span:
+    - body
+    - 2233
+    - 5794
+  label: 藥病總說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3d4
+    span:
+    - body
+    - 5794
+    - 7115
+  label: 癩症一十四種六經所屬
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d4d6
+    span:
+    - body
+    - 5872
+    - 5973
+  label: 火癩
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d4d7
+    span:
+    - body
+    - 5973
+    - 6051
+  label: 蟋蟀癩
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d4d8
+    span:
+    - body
+    - 6051
+    - 6143
+  label: 木癩
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d4d9
+    span:
+    - body
+    - 6143
+    - 6226
+  label: 風癩
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d4d10
+    span:
+    - body
+    - 6226
+    - 6306
+  label: 土癩
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d4d11
+    span:
+    - body
+    - 6306
+    - 6393
+  label: 䖲癩
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d4d12
+    span:
+    - body
+    - 6393
+    - 6477
+  label: 金癩
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d4d13
+    span:
+    - body
+    - 6477
+    - 6527
+  label: 面癩
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d4d14
+    span:
+    - body
+    - 6527
+    - 6647
+  label: 白癩
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d4d15
+    span:
+    - body
+    - 6647
+    - 6720
+  label: 水癩
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d4d16
+    span:
+    - body
+    - 6720
+    - 6800
+  label: 雨癩
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d4d17
+    span:
+    - body
+    - 6800
+    - 6930
+  label: 烏癩
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d4d18
+    span:
+    - body
+    - 6930
+    - 7027
+  label: 酒癩
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3.d4d19
+    span:
+    - body
+    - 7027
+    - 7115
+  label: 麻癩
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek035_jc_002-d3d5
+    span:
+    - body
+    - 7115
+    - 8125
+  label: 癘症總論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek035_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 12483
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ek035_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 902
+  label: 六經湯丸秘方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek035_jc_003-d4d3
+    span:
+    - body
+    - 902
+    - 12483
+  label: 風癘各方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek035_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 11575
+  label: 卷四
+  type: section
+  level: 1
+hash: sha256:d9eb8f6e662e42b57207dfc0306074bdafcb67e2c187dd3c5699f235cadf67ae
